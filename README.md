@@ -1,4 +1,4 @@
-# form
+# login panel
 
 Simple login panel form. Built using HTML and CSS.
 
